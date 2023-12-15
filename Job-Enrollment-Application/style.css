@@ -1,0 +1,27 @@
+body{
+    font-family: sans-serif;
+    
+}
+label{
+    font-size: 20px;
+}
+form{
+    background-color: lightgrey;
+    width: 400px;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+}
+input,select,textarea{
+    font-size: 20px;
+    border-radius: 5px;
+    border: none;
+}
+button{
+background-color: gray;
+color: white;
+border: none;
+border-radius: 5px;
+font-size: 20px;
+padding: 5px;
+}
